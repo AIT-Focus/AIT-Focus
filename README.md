@@ -1,7 +1,7 @@
 # About AIT-Focus
 **📚 A Class Resources Repository**  
 
-Welcome to the **AIT-Focuse** a **Class Resources Repository**! This GitHub account is dedicated to providing students with easy access to PDFs, assignments, and other learning materials shared by the teacher.  
+Welcome to the **AIT-Focus** a **Class Resources Repository**! This GitHub account is dedicated to providing students with easy access to PDFs, assignments, and other learning materials shared by the teacher.  
 
 ## 🔹 About This Repository  
 - 📖 **Access PDFs**: Find all important course-related documents in one place.  
@@ -20,4 +20,4 @@ Co-Maintained by:
 
 This all is to help students stay organized and access resources efficiently.  
 
-🚀 Stay updated and make the most out of your learning experience!  
+🚀 Stay **updated** and make the most out of your **learning experience**!  
