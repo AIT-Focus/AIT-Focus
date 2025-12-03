@@ -1,5 +1,5 @@
 # About AIT-Focus
-**📚 A Class Resources Repository Sec"A" 2024**  
+**📚 A Class Resources Repository Sec"A" 2024-2027**  
 
 Welcome to the **AIT-Focus** a **Class Resources Repository**! This GitHub account is dedicated to providing students with easy access to PDFs, assignments, and other learning materials shared by the teacher.  
 
