@@ -14,7 +14,7 @@ This repository is maintained by **Class CRs**:
 - Aima Fahim (Girls CR)
 - Rana Qasim Shafiq (ex CR)
 - Ahmed Ali Younas (ex CR)
-- Zeeshan Ahmed (ex CR)
+- Mustafa Bilal (SHE-R)
 
 
 Co-Maintained by:
