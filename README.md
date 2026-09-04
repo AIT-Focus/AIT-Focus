@@ -18,6 +18,7 @@ This repository is maintained by **Class CRs**:
 
 
 Co-Maintained by:
+- Muzzamil Baig
 - Usman Shaikh
 
 This all is to help students stay organized and access resources efficiently.  
