@@ -10,9 +10,10 @@ Welcome to the **AIT-Focus** a **Class Resources Repository**! This GitHub accou
 
 ## 👥 Managed By  
 This repository is maintained by **Class CRs**:
-- Rayyan Siddiqui (Boys CR)
-- Rana Qasim Shafiq (Boys CR)
-- Aima Fahim (Girls CR)
+- Rayyan Siddiqui (CR)
+- Muhammad Zeeshan Khan (ACR)
+- Rana Qasim Shafiq (ACR)
+- Maheenah (Girls CR)
 - Ahmed Ali Younas (ex CR)
 - Mustafa Bilal (SHE-R)
 
