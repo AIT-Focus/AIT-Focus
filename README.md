@@ -18,7 +18,7 @@ This repository is maintained by **Class CRs**:
 - Mustafa Bilal (SHE-R)
 
 
-Co-Maintained by:
+Co-Managers:
 - Muzzamil Baig
 - Usman Shaikh
 
