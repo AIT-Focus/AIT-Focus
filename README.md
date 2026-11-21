@@ -14,6 +14,7 @@ This repository is maintained by **Class CRs**:
 - Muhammad Zeeshan Khan (ACR)
 - Rana Qasim Shafiq (ACR)
 - Maheenah (Girls CR)
+- Rania (Girls CR)
 - Ahmed Ali Younas (ex CR)
 - Mustafa Bilal (SHE-R)
 
